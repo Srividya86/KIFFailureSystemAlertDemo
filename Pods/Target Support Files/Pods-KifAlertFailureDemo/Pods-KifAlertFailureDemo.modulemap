@@ -1,0 +1,6 @@
+framework module Pods_KifAlertFailureDemo {
+  umbrella header "Pods-KifAlertFailureDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
